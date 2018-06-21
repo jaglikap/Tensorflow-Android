@@ -1,0 +1,45 @@
+item {
+  name: "product1"
+  id: 1
+  display_name: "product1"
+}
+item {
+  name: "product3"
+  id: 3
+  display_name: "product3"
+}
+item {
+  name: "product7"
+  id: 7
+  display_name: "product7"
+}
+item {
+  name: "product8"
+  id: 8
+  display_name: "product8"
+}
+item {
+  name: "product10"
+  id: 10
+  display_name: "product10"
+}
+item {
+  name: "product11"
+  id: 11
+  display_name: "product11"
+}
+item {
+  name: "product13"
+  id: 13
+  display_name: "product13"
+}
+item {
+  name: "product15"
+  id: 15
+  display_name: "product15"
+}
+item {
+  name: "product16"
+  id: 16
+  display_name: "product16"
+}

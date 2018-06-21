@@ -14,8 +14,8 @@ gen/
 out/
 
 # Gradle files
-.gradle/
-build/
+ViPR-master/.gradle/*
+ViPR-master/build/*
 
 # Local configuration file (sdk path, etc)
 local.properties
@@ -33,14 +33,14 @@ proguard/
 captures/
 
 # IntelliJ
-*.iml
-.idea/workspace.xml
-.idea/tasks.xml
-.idea/gradle.xml
-.idea/assetWizardSettings.xml
-.idea/dictionaries
-.idea/libraries
-.idea/caches
+ViPR-master/*.iml
+ViPR-master/.idea/workspace.xml
+ViPR-master/.idea/tasks.xml
+ViPR-master/.idea/gradle.xml
+ViPR-master/.idea/assetWizardSettings.xml
+ViPR-master/.idea/dictionaries
+ViPR-master/.idea/libraries
+ViPR-master/.idea/caches
 
 # Keystore files
 # Uncomment the following line if you do not want to check your keystore files in.

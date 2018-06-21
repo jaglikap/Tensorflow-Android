@@ -1,0 +1,130 @@
+{
+"1" :
+{
+  "name": "product1",
+  "display_name": "product1",
+  "image_path": "bqt_serving_models/bqt_mugs/images",
+  "image_name": "product1_108.jpg",
+  "url": "http://www.buquati.com"
+},
+"2" : 
+{
+  "name": "product2",
+  "display_name": "product2",
+  "image_path": "bqt_serving_models/bqt_mugs/images",
+  "image_name": "product2_1.jpg",
+  "url": "http://www.buquati.com"
+},
+"3" :
+{
+  "name": "product3",
+  "display_name": "product3",
+  "image_path": "bqt_serving_models/bqt_mugs/images",
+  "image_name": "product3_100.jpg",
+  "url": "http://www.buquati.com"
+},
+"4" :
+{
+  "name": "product4",
+  "display_name": "product4",
+  "image_path": "bqt_serving_models/bqt_mugs/images",
+  "image_name": "product4_1.jpg",
+  "url": "http://www.buquati.com"
+},
+"5" :
+{
+  "name": "product5",
+  "display_name": "product5",
+  "image_path": "bqt_serving_models/bqt_mugs/images",
+  "image_name": "product5_100.jpg",
+  "url": "http://www.buquati.com"
+},
+"6" :
+{
+  "name": "product6",
+  "display_name": "product6",
+  "image_path": "bqt_serving_models/bqt_mugs/images",
+  "image_name": "product6_120.jpg",
+  "url": "http://www.buquati.com"
+},
+"7" :
+{
+  "name": "product7",
+  "display_name": "product7",
+  "image_path": "bqt_serving_models/bqt_mugs/images",
+  "image_name": "product7_82.jpg",
+  "url": "http://www.buquati.com"
+},
+"8" :
+{
+  "name": "product8",
+  "display_name": "product8",
+  "image_path": "bqt_serving_models/bqt_mugs/images",
+  "image_name": "product8_100.jpg",
+  "url": "http://www.buquati.com"
+},
+"9" :
+{
+  "name": "product9",
+  "display_name": "product9",
+  "image_path": "bqt_serving_models/bqt_mugs/images",
+  "image_name": "product9_1.jpg",
+  "url": "http://www.buquati.com"
+},
+"10" :
+{
+  "name": "product10",
+  "display_name": "product10",
+  "image_path": "bqt_serving_models/bqt_mugs/images",
+  "image_name": "product10_120.jpg",
+  "url": "http://www.buquati.com"
+},
+"11" :
+{
+  "name": "product11",
+  "display_name": "product11",
+  "image_path": "bqt_serving_models/bqt_mugs/images",
+  "image_name": "product11_122.jpg",
+  "url": "http://www.buquati.com"
+},
+"12" :
+{
+  "name": "product12",
+  "display_name": "product12",
+  "image_path": "bqt_serving_models/bqt_mugs/images",
+  "image_name": "product12_111.jpg",
+  "url": "http://www.buquati.com"
+},
+"13" :
+{
+  "name": "product13",
+  "display_name": "product13",
+  "image_path": "bqt_serving_models/bqt_mugs/images",
+  "image_name": "product13_63.jpg",
+  "url": "http://www.buquati.com"
+},
+"14" :
+{
+  "name": "product14",
+  "display_name": "product14",
+  "image_path": "bqt_serving_models/bqt_mugs/images",
+  "image_name": "product14_1.jpg",
+  "url": "http://www.buquati.com"
+},
+"15" :
+{
+  "name": "product15",
+  "display_name": "product15",
+  "image_path": "bqt_serving_models/bqt_mugs/images",
+  "image_name": "product15_120.jpg",
+  "url": "http://www.buquati.com"
+},
+"16" :
+{
+  "name": "product16",
+  "display_name": "product16",
+  "image_path": "bqt_serving_models/bqt_mugs/images",
+  "image_name": "product16_54.jpg",
+  "url": "http://www.buquati.com"
+}
+}
